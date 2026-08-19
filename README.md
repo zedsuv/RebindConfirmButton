@@ -1,8 +1,3 @@
 # RebindConfirmButton
 
-Basic tool to add custom keys for Cookie Clicker's confirm prompts.
-
-## Current Keybinds
-
-- `Enter` - Confirm prompts
-- `Space` - Confirm prompts
+Basic tool to rebind Cookie Clicker's confirm prompt key from Enter to a custom key.
